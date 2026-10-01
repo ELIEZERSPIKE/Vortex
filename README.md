@@ -62,4 +62,4 @@ The current version is a visual and functional concept. Business-specific conten
 
 ## Purpose
 
-This project demonstrates how VORTEX could transform its online presence from a simple information page into a **digital customer acquisition and reservation channel**.
+
