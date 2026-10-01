@@ -29,7 +29,7 @@ export function Hero({ onOpenBooking }: HeroProps) {
 
         {/* Hero Headline */}
         <h1 className="text-4xl sm:text-6xl md:text-7xl lg:text-8xl font-black font-display tracking-tight text-white leading-[1.08] max-w-4xl text-balance mb-6 drop-shadow-sm">
-          Là où la vos sorties prennent{' '}
+          Là où vos sorties prennent{' '}
           <span className="bg-gradient-to-r from-purple-400 via-fuchsia-300 to-indigo-300 bg-clip-text text-transparent underline decoration-purple-500/40 decoration-wavy underline-offset-8">
             une autre dimension.
           </span>
