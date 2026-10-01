@@ -1,20 +1,65 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# VORTEX — Nightlife Landing Page
 
-# Run and deploy your AI Studio app
+A modern, conversion-focused landing page concept designed for **VORTEX**, a bar and nightlife venue based in **Lomé, Togo**.
 
-This contains everything you need to run your app locally.
+This project is a **commercial MVP/prototype** created to demonstrate how a strong digital presence can help VORTEX showcase its atmosphere, attract customers, and drive table reservations and direct contact.
 
-View your app in AI Studio: https://ai.studio/apps/0943179f-4de1-4d30-acf3-01d02a3219ae
+## Overview
 
-## Run Locally
+The landing page focuses on:
 
-**Prerequisites:**  Node.js
+- Premium nightlife branding
+- Immersive visual experience
+- Mobile-first design
+- Clear conversion-focused CTAs
+- WhatsApp and phone contact
+- Future-ready reservation flow
+- SEO-friendly structure
 
+## Business
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**VORTEX**  
+Lomé, Togo
+
+**Phone:** +228 97 41 00 76  
+**Email:** vortex@gmail.com
+
+## Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- Lucide React
+
+## Main Sections
+
+- Hero
+- VORTEX Experience
+- Why VORTEX
+- Atmosphere / Gallery
+- Moments
+- Call to Action
+- Contact
+- Footer
+
+## Project Status
+
+**MVP / Commercial Prototype**
+
+The current version is a visual and functional concept. Business-specific content such as real photography, exact location, opening hours, menu, events, and reservation management can be integrated in a future version.
+
+## Future Improvements
+
+- Online table reservations
+- Real VORTEX photography
+- Menu integration
+- Google Maps location
+- Events and promotions
+- Social media integration
+- Analytics
+- Customer conversion tracking
+- CMS / admin dashboard
+
+## Purpose
+
+This project demonstrates how VORTEX could transform its online presence from a simple information page into a **digital customer acquisition and reservation channel**.
